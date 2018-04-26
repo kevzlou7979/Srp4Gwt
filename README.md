@@ -15,6 +15,8 @@ The SRP protocol creates a large private key shared between the two parties in a
 It is necessary to always use SSL together with SRP since a man-in-the-middle could otherwise inject custom javascript that gets the password directly from the user.
 Do not use trust this code without carefully verifying that the implementation is in fact correct.
 
+## Demo Screenshot
+<img src="https://i.imgur.com/yj965a9.gif" />
 
 ## Forked at
 https://github.com/Legioth/Srp4Gwt
