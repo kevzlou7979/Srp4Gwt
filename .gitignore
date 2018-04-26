@@ -1,0 +1,9 @@
+/srp4gwt/.idea/
+/srp4gwt/target/
+/srp4gwtdemo/node
+/srp4gwtdemo/node_modules/
+/srp4gwt/srp4gwt.iml
+/srp4gwtdemo/target/
+/srp4gwtdemo/srp4gwtdemo.iml
+/srp4gwtdemo/package-lock.json
+/srp4gwt/.gitignore
